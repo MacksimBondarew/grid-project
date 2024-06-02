@@ -431,7 +431,6 @@ body {
 .promo {
     background-image: url("../images/promo.png");
     min-height: 500px;
-    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
